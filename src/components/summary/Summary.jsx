@@ -2,7 +2,6 @@ import React from 'react';
 import './summary.css'
 const Summary = (props) => {
      const order = props.product;
-     console.log(order)
     let total = 0;
     let shipping =0;
     let tax =0;
