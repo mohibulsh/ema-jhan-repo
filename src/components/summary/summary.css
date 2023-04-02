@@ -1,0 +1,12 @@
+.orderSummary{
+    background-color:rgba(255, 153, 0, 0.3) ;
+    padding: 10px;
+    margin-top: 20px;
+    position: sticky;
+    top:0;
+    border-radius:10px;
+}
+.grandTotal{
+    font-size: 22px;
+    font-weight: 600;
+}
